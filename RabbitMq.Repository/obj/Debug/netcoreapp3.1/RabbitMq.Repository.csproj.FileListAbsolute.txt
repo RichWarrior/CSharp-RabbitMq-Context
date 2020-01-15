@@ -1,0 +1,8 @@
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\bin\Debug\netcoreapp3.1\RabbitMq.Repository.deps.json
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\bin\Debug\netcoreapp3.1\RabbitMq.Repository.dll
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\obj\Debug\netcoreapp3.1\RabbitMq.Repository.AssemblyInfoInputs.cache
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\obj\Debug\netcoreapp3.1\RabbitMq.Repository.AssemblyInfo.cs
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\bin\Debug\netcoreapp3.1\RabbitMq.Repository.pdb
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\obj\Debug\netcoreapp3.1\RabbitMq.Repository.csprojAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\obj\Debug\netcoreapp3.1\RabbitMq.Repository.dll
+C:\Users\Ömer Faruk\Desktop\CSharp-RabbitMq-Context\RabbitMq.Repository\obj\Debug\netcoreapp3.1\RabbitMq.Repository.pdb
