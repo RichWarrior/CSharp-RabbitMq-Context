@@ -98,6 +98,22 @@ namespace RabbitMq.Repository
             return _rtn;
         }
 
+        public Tuple<IModel, BasicGetResult> BasicGet(string queueName, bool autoAck)
+        {
+            Tuple<IModel, BasicGetResult> _rtn = null;
+            try
+            {
+                IModel channel = context.CreateModel();
+                BasicGetResult basicGetResult = channel.BasicGet(queueName, autoAck);
+                _rtn = new Tuple<IModel, BasicGetResult>(channel, basicGetResult);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return _rtn;
+        }
+
         public void Dispose()
         {
             GC.WaitForPendingFinalizers();

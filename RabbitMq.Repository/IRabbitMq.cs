@@ -30,5 +30,6 @@ namespace RabbitMq.Repository
         /// <param name="queueName"></param>
         /// <returns></returns>
         bool CreateQueue(string queueName);
+        Tuple<IModel, BasicGetResult> BasicGet(string queueName, bool autoAck);
     }
 }
